@@ -1,4 +1,4 @@
-**Word Frequency Counter**
+#Word Frequency Counter
 
 Using this code:
 
