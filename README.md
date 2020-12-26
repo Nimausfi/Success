@@ -1,6 +1,6 @@
-Word Frequency Counter
+**Word Frequency Counter**
 
-By using this code:
+Using this code:
 
 1- You should be able to count the frequency of your words from a file.
 
